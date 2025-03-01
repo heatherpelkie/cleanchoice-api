@@ -1,5 +1,4 @@
-
-
+cat ~/cleanchoice-api/api.py
 
 Last login: Tue Feb 25 21:22:45 on ttys001
 heathercbarone@Heathers-MBP ~ % nano api.py
